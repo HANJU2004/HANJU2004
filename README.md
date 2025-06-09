@@ -1,5 +1,5 @@
 @HANJU2004
-- 😄 Chinese, Chinglish speaker, INFP
+- 😄 Chinese, Chinglish speaker
 - 🌱 Learning AI (so far including deep learning, reinforcement learning... just a little)
 - 📫 Email: liruilan88@163.com  WeChat:13521023794
 - ⚡ Hope making interesting, human-like agents (although I'm a long way from this goal...)
